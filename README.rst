@@ -1,3 +1,5 @@
+**Friendly fork from `<https://github.com/PySlurm/pyslurm>`_ for Slurm 20.02 preparation.**
+
 ***********************************
 PySlurm: Slurm Interface for Python
 ***********************************
